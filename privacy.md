@@ -27,7 +27,10 @@ We are not using location data to provide any in-app ads. [ Specific to Smartwat
 ### 3. STORAGE
 You acknowledge and agree that the Personal Information collected by Us, shall be stored by Us on Our servers (“Server(s)”). By using Our Services and providing Personal Information to Us, you are expressly consenting to the storage of the same by Us at Our Server(s) including storage and processing of your Personal Information outside of your country of residence consistent with this Privacy Policy. Please note that the data protection and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country.
 
-### 4. USE
+### 4. Take photos and obtain album information permissions
+Usage scenario: Set the user avatar or set the watch dial picture. After you agree to use the relevant permissions, you can choose from the album or take a photo. Among them, the image files obtained by the user avatar function will be uploaded to the server, and the server will save the relevant file information and display them in the APP. If the user does not choose to use the image, the APP will not call the operation of relevant permissions.
+
+### 5. USE
 The Personal Information collected by Us is used by Us, Our affiliates, subsidiaries and joint ventures, inter alia, for- 
 (i) Allowing you to use the Services that you request 
 (ii) Providing Services to you, facilitating services provided by advertisers, third party service providers, and business partners 
@@ -39,14 +42,14 @@ The Personal Information collected by Us is used by Us, Our affiliates, subsidia
 
 Save as expressly specified in this Privacy Policy, We do not sell or rent your Personal Information to third parties for their marketing purposes without your explicit consent and We only use your information as described in this Privacy Policy.
 
-### 5. DISCLOSURE
+### 6. DISCLOSURE
 (a) We acknowledge that the Personal Information provided by you is important and confidential, and the contents of such Personal Information shall not be disclosed by Us to any Person, except to such third parties as are specified in this Privacy Policy. For the purposes of this Privacy Policy, the term “Person” shall mean and connote any individual, corporation, partnership, limited liability partnership, joint venture, body corporate or other organisation , association or entity 
 (b) The Personal Information provided by you can be shared by Us at any time without obtaining explicit consent from you, with any government agencies mandated under the law to obtain Personal Information including sensitive Personal Information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences
 (c) Personal Information provided by you may also be disclosed by Us at any time without obtaining explicit consent from you, to any third party by an order under the applicable law for the time being in force 
 (d) We will endeavour to ensure that third parties who are the recipients of the Personal Information maintain the confidentiality of such information, with the same level of data security practices as are employed by Us in relation to the Personal Information and use the Personal Information only in relation to the Services offered by Us to you. However, please note that recipients of your Personal Information may be located in countries other than India, and the level of protection afforded to Personal Information may differ under the applicable laws of such countries, and hence the protection measures utilized by such recipients in territories outside India may also differ from the standards deployed and maintained by Us. You hereby expressly consent to the disclosure and/or transfer of your Personal Information, pursuant to this Privacy Policy, with recipients located in countries other than India. For the avoidance of doubt, your Personal Information shall not be ‘transferred’ by Us to any Person that does not ensure the same level of data protection that is adhered to by Us as detailed in this Privacy Policy 
 (e) We may also disclose the Personal Information to enforce Our policies, and/or to address concerns/complaints regarding the nature of the content posted by you, and/or to prevent any unethical/illegal practices/activity
 
-### 6. RECIPIENTS 
+### 7. RECIPIENTS 
 (a) Personal Information may be disclosed/transferred to the following recipients:
 
 (i) Third party service providers who assist Us in rendering Services to you and/or enhance the efficiency of the Services to you 
@@ -55,12 +58,12 @@ Save as expressly specified in this Privacy Policy, We do not sell or rent your 
 (iv) There may be instances when We disclose your information to other parties- to comply with the law or respond to compulsory legal process and/or to verify/enforce compliance with the policies governing Our Services 
 (v) We may disclose your information to a third party as part of a merger or transfer, or in the event of a bankruptcy
 
-### 7. OTHER INFORMATION 
+### 8. OTHER INFORMATION 
 (a) We may provide You links to other third party websites for your convenience and information. In the event that you choose to visit/access such third party websites, the privacy policy/terms of use of such third party websites shall be applicable to you, and We shall not at any time be responsible and/or liable for any content/ information provided/intimated to You on such third party websites 
 (b) Any personal and/or sensitive personal information including your contact details, bank account details, credit card account details, collected by such third party websites, shall be subject to the terms of the privacy policy provided by such third party websites, and Our Privacy Policy shall not be applicable to the same. Moreover, we shall not at any time be responsible/ liable/ accountable for any personal and/or sensitive personal information that You provide to and/or is collected by such third party websites 
 (c) We may from time to time send you certain promotional material/ advertisements/ additional information with regard to the Services provided/ offered by Us, to the e-mail address provided by You. You may at any time choose to opt-out of receiving such communications, by sending an e-mail to this effect to the contact address provided under Clause 13.
 
-### 8. COOKIES 
+### 9. COOKIES 
 (a) We may use cookies and other web beacons for the following purposes: 
 
 (i) To enable Us to identify your Device and help you navigate through the Services
@@ -69,22 +72,22 @@ Save as expressly specified in this Privacy Policy, We do not sell or rent your 
 
 (b) You may refuse the use of cookies on your computer and adjust the settings of your browser to disable cookies. You may also at any time disable/delete cookies which are already activated on your computer. However, please note that should you choose to disable cookies from operating on your computer, certain sections/ features of the Services may become inaccessible to you
 
-### 9. ALTERATION/ DELETION 
+### 10. ALTERATION/ DELETION 
 You may at any time review/ correct/ supplement/ add to, the Personal Information provided by you, by sending an e-mail to this effect to the contact address notified under paragraph 13. We shall at no time be responsible/liable for the authenticity/ veracity of the Personal Information provided by you.
 
-### 10. SECURITY 
+### 11. SECURITY 
 We have put in place reasonable physical and technical measures to safeguard the information We collect in connection with the Services. However, please note that although We take reasonable steps to protect your information, no website, internet transmission, computer system or wireless connection is completely secure. Personal Information provided by You, shall not be retained by Us for a period longer than is required for the purposes for which the information may lawfully be used or is otherwise required under any other law for the time being in force.
 
-### 11. PUBLICLY AVAILABLE THIRD PARTY INFORMATION 
+### 12. PUBLICLY AVAILABLE THIRD PARTY INFORMATION 
 Our Services may link to third-party websites and services that are outside Our control. We are not responsible for the security or privacy of any information collected by websites or other services. You should exercise caution and review the privacy statements applicable to the third-party websites and services you use. 
 We also may make available to you certain products or services (e.g., apps available through play stores) developed by third parties. We are not responsible for these third-party products or services. 
 If you connect the Device with a social networking service, We may receive and store authentication information from that service to enable you to log in, as well as other information that you allow Us to receive when you connect with these services. 
 Also, please note that if you choose to connect with a social networking service on a Device used by people in addition to you, those other users may be able to see information stored or displayed in connection with your account on the social networking service(s) with which you connect.
 
-### 12. UPDATES TO PRIVACY POLICY 
+### 13. UPDATES TO PRIVACY POLICY 
 We reserve the right to update/ modify in whole or in part this Privacy Policy at any time due to changes in the applicable laws and/or changes in Our company policies and it shall be your responsibility to review the updated Privacy Policy on this page. Your continued use of the Services shall be deemed acceptance of the updated/ modified Privacy Policy by you.
 
-### 13. GRIEVANCE OFFICER 
+### 14. GRIEVANCE OFFICER 
 Mr. Amit Mayor shall be the grievance officer for the purposes of this Privacy Policy. Any and all of the following may be addressed to the grievance officer at: D-170, Okhla Industrial Area Phase I, New Delhi – 110 020 
 
 (i) Requests for review/ modification/ deletion of any Personal Information provided by you 
